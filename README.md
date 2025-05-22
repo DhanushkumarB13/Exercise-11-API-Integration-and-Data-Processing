@@ -1,7 +1,7 @@
 # Exercise-11-API-Integration-and-Data-Processing
 ~~~
-Name : m.johnpall 
-Reg.No : 212224040140
+Name : B. DHANUSH KUMAR
+Reg.No : 212224240034
 ~~~
 
 ## Aim
